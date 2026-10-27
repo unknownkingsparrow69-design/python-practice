@@ -8,6 +8,7 @@ No setup needed. Each badge opens the file in a free online Python editor and ru
 
 | File | |
 | --- | --- |
+| [`Matplotlib_AI_ML_Revision_Cheatsheet.ipynb`](./Matplotlib_AI_ML_Revision_Cheatsheet.ipynb) | [![Run in Python Compiler](https://pythoncompiler.io/badge-run.svg)](https://pythoncompiler.io/?gh=unknownkingsparrow69-design/python-practice/main/Matplotlib_AI_ML_Revision_Cheatsheet.ipynb) |
 | [`NumPy_AI_ML_Revision_Cheatsheet.ipynb`](./NumPy_AI_ML_Revision_Cheatsheet.ipynb) | [![Run in Python Compiler](https://pythoncompiler.io/badge-run.svg)](https://pythoncompiler.io/?gh=unknownkingsparrow69-design/python-practice/main/NumPy_AI_ML_Revision_Cheatsheet.ipynb) |
 | [`Pandas.ipynb`](./Pandas.ipynb) | [![Run in Python Compiler](https://pythoncompiler.io/badge-run.svg)](https://pythoncompiler.io/?gh=unknownkingsparrow69-design/python-practice/main/Pandas.ipynb) |
 | [`Pandas_AI_ML_Revision_Cheatsheet.ipynb`](./Pandas_AI_ML_Revision_Cheatsheet.ipynb) | [![Run in Python Compiler](https://pythoncompiler.io/badge-run.svg)](https://pythoncompiler.io/?gh=unknownkingsparrow69-design/python-practice/main/Pandas_AI_ML_Revision_Cheatsheet.ipynb) |
